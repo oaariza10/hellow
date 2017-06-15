@@ -1,3 +1,3 @@
 # hellow
 
-hi i'm fucking new
+hi i'm new
